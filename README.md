@@ -1,5 +1,9 @@
 # RAGxplorer Demo 🦙🦺
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ragxplorer.streamlit.app/)
+
+View the RAGxplorer project [here](https://github.com/gabrielchua/RAGxplorer/).
+
 # Installation 
 **Installation**
 
