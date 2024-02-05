@@ -1,0 +1,2 @@
+pysqlite3-binary
+ragxplorer==0.1.9
