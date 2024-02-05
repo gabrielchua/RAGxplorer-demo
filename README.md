@@ -1,1 +1,2 @@
-# RAGxplorer-demo
+# RAGxplorer Demo 🦙🦺
+
